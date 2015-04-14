@@ -35,6 +35,6 @@ Public Class frmLogin
     End Sub
 
     Private Sub frmLogin_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
+        'Demo test chinh sua
     End Sub
 End Class

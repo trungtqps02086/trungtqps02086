@@ -22,3 +22,7 @@ C:\Users\Strawberry23\Downloads\trungtqps02086_Lab 5\trungtqps02086\trungtqps020
 C:\Users\Strawberry23\Downloads\trungtqps02086_Lab 5\trungtqps02086\trungtqps02086\bin\Debug\trungtqps02086.xml
 C:\Users\Strawberry23\Downloads\trungtqps02086_Lab 5\trungtqps02086\trungtqps02086\obj\Debug\WindowsApplication1.frmQLSP.resources
 C:\Users\Strawberry23\Downloads\trungtqps02086_Lab 5\trungtqps02086\trungtqps02086\obj\Debug\WindowsApplication1.frmQLNV.resources
+E:\trungtqps02086\trungtqps02086\bin\Debug\trungtqps02086.exe.config
+E:\trungtqps02086\trungtqps02086\obj\Debug\trungtqps02086.exe
+E:\trungtqps02086\trungtqps02086\obj\Debug\trungtqps02086.xml
+E:\trungtqps02086\trungtqps02086\obj\Debug\trungtqps02086.pdb
